@@ -104,7 +104,7 @@ redirects: new-folder/page.md
 #### 我们就可以尽情访问了
 ![21](../image/98/21.jpg)
 
-#### GitHub修改手动跟新
+#### GitHub修改手动更新
 ![22](../image/98/22.jpg)
 
 
