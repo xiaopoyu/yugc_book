@@ -1,4 +1,4 @@
-####手把手教你不花一分钱搭建个人博客网站
+#### 手把手教你不花一分钱搭建个人博客网站
 本片文章会详细介绍使用GitHub+GitBook方式搭建属于自己的个人知识管理博客。**真**不花一分钱：依托GitBook平台同步GitHub搭建个人博客
 #### GitBook是什么
   在说GitBook不得先说GitHub。GitHub相比大家都不陌生，GitHub是现在世界上主流的开源项目源码云托管平台。可以非常方便的管理团队协同管理不同版本，不同开发人员的不同需求。
@@ -19,20 +19,20 @@
 ##### 进入GitHub新建项目[点击进入创建页面](https://github.com/new)
 ![6](../image/98/6.jpg)
 ![6-1](../image/98/6-1.jpg)
-#####下载Git图形界面管理工具SourceTree [点击跳转官方网站下载](https://www.sourcetreeapp.com/)
+##### 下载Git图形界面管理工具SourceTree [点击跳转官方网站下载](https://www.sourcetreeapp.com/)
 ![7](../image/98/7.jpg)
-#####打开SouceTree
+##### 打开SouceTree
 ![8](../image/98/8.jpg)
-#####使用SourceTree添加GitHub账号或OAuth协议授权
+##### 使用SourceTree添加GitHub账号或OAuth协议授权
 ![8-1](../image/98/8-1.jpg)
 ![8-2](../image/98/8-2.jpg)
 ![8-3](../image/98/8-3.jpg)
 ![8-4](../image/98/8-4.jpg)
-#####GitHub HTTPS协议克隆项目
+##### GitHub HTTPS协议克隆项目
 ![8-5](../image/98/8-5.jpg)
 ![8-6](../image/98/8-6.jpg)
 
-####下面就是重头戏了
+#### 下面就是重头戏了
 ##### 在gitbook_test目录下创建如下
 ![9](../image/98/9.jpg)
 ```shell
