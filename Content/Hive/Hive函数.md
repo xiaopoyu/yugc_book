@@ -12,7 +12,7 @@
   （4）累计计算
   （5）层次查询 
 
- 	[Hive分析函数(一) SUM、AVG、MIN、MAX](Hive分析函数(一).md) 
+ 	[Hive分析函数(一) SUM、AVG、MIN、MAX](./Hive分析函数(一).md) 
 
 ​	 [Hive分析函数(二) NTILE、ROW_NUMBER、RANK、DENSE_RANK、CUME_DIST、PERCENT_RANK](Hive分析函数(二).md) 
 
