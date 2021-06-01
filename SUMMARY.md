@@ -9,3 +9,7 @@
 
 ##Spark
 * [Spark-协同过滤](Content/spark/chapter1.md)
+
+## Hive
+
+* [Hive函数](Content/Hive/Hive函数.md) 
