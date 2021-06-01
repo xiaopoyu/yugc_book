@@ -12,10 +12,10 @@
 
 ## Hive
 * [Hive函数](Content/Hive/Hive函数.md) 
-* [Hive分析函数(一) SUM、AVG、MIN、MAX](Content/Hive/Hive分析函数1.md) 
-* [Hive分析函数(二) NTILE、ROW_NUMBER、RANK、DENSE_RANK、CUME_DIST、PERCENT_RANK](Content/Hive/Hive分析函数2.md) 
-* [Hive分析函数(三) LAG,LEAD、FIRST_VALUE、LAST_VALUE](Content/Hive/Hive分析函数3.md) 
-* [Hive分析函数(四) GROUPING SETS、GROUPING__ID、CUBE、ROLLUP](Content/Hive/Hive分析函数4.md) 
-	
-	  
+  * [Hive分析函数(一) SUM、AVG、MIN、MAX](Content/Hive/Hive分析函数1.md) 
+  * [Hive分析函数(二) NTILE、ROW_NUMBER、RANK、DENSE_RANK、CUME_DIST、PERCENT_RANK](Content/Hive/Hive分析函数2.md) 
+  * [Hive分析函数(三) LAG,LEAD、FIRST_VALUE、LAST_VALUE](Content/Hive/Hive分析函数3.md) 
+  * [Hive分析函数(四) GROUPING SETS、GROUPING__ID、CUBE、ROLLUP](Content/Hive/Hive分析函数4.md) 
+
+    
 
